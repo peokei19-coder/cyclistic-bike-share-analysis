@@ -93,3 +93,29 @@ Electric bikes were the most frequently used option for both groups:
 - 65.13% of casual rides
 - 63.42% of member rides
 Because the difference is small, bike type does not appear to be one of the strongest distinctions between casual riders and members.
+
+## Recommendations
+### 1. Launch Seasonal Weekend Membership Campaigns
+Casual ridership is highest during warmer months and is more concentrated on weekends. Cyclistic should prioritize membership-conversion campaigns from late spring through early fall, particularly on Saturdays and Sundays. Campaign messaging should emphasize:
+- The value of unlimited or frequent rides during the summer
+- Cost savings compared with repeatedly purchasing single-ride or day passes
+- The convenience of having an annual membership available for spontaneous weekend trips
+Digital campaigns should be scheduled most heavily during the afternoon and early evening, when casual-rider activity is highest.
+
+### 2. Promote Memberships at High-Traffic Casual-Rider Locations
+Cyclistic should focus location-based marketing around stations with high casual-rider activity, especially near Navy Pier, Millennium Park, Shedd Aquarium, the lakefront, and other major visitor destinations. Possible tactics include:
+- Station signage with QR codes linking to a membership offer
+- In-app or post-ride membership prompts
+- Geographically targeted social and mobile advertisements
+- Partnerships with nearby attractions, hotels, and tourism organizations
+- Limited-time membership incentives promoted at high-volume stations
+These locations provide an opportunity to reach casual riders while they are actively using the service.
+
+### 3. Position Membership as an Everyday Transportation Option
+Member activity shows strong weekday morning and evening peaks, while casual riders are more concentrated during weekends and later hours. Cyclistic should develop messaging that helps casual riders see the service as useful beyond recreational trips. Campaigns could demonstrate how an annual membership supports:
+- Commuting to work or school
+- Short weekday errands
+- Connections to public transportation
+- Regular neighborhood travel
+- Reliable transportation without car ownership or parking costs
+A limited-time membership trial or introductory discount could encourage leisure-oriented casual riders to test Cyclistic for weekday transportation.
