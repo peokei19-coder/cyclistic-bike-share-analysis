@@ -22,3 +22,6 @@ How do annual members and casual riders use Cyclistic bikes differently?
 ## Interactive Dashboard
 Explore the full interactive Tableau dashboard:
 [View the Cyclistic Rider Behavior Analysis Dashboard](https://public.tableau.com/app/profile/peace.okei/viz/cyclistic_rider_analysis_2025/CyclisticRiderBehaviorAnalysis2025)
+
+## Dashboard Preview
+![Cyclistic Rider Behavior Analysis Dashboard](images/cyclistic_dashboard_2025.png.png)
