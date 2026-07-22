@@ -56,3 +56,40 @@ Additional calculated fields included:
 - Weekday or weekend classification
 - Month name and number
 - Starting hour
+
+## Key Findings
+
+### 1. Members Complete Most Cyclistic Trips
+Annual members completed 3,484,186 rides, representing 64.52% of all cleaned trips. Casual riders completed 1,915,769 rides, accounting for **35.48%**.
+
+### 2. Casual Riders Take Longer Trips
+Casual rides lasted 19.90 minutes on average, compared with 12.17 minutes for member rides. The median casual ride was also longer, at 11.88 minutes, compared with 8.73 minutes for members.
+This indicates that casual riders generally use Cyclistic for longer periods, even after extreme ride durations were removed.
+
+### 3. Casual Riders Are More Active on Weekends
+Weekends accounted for 37.19% of casual rides, compared with only 23.37% of member rides. Members completed 76.63% of their rides on weekdays, suggesting more consistent use for routine transportation. Casual riders showed stronger weekend activity and longer weekend ride durations.
+
+### 4. Member Usage Follows Weekday Commuting Patterns
+Member ridership showed distinct weekday peaks around:
+- 7:00–8:00 AM
+- 4:00–6:00 PM
+Casual-rider activity was concentrated later in the day, primarily between 3:00 PM and 7:00 PM, without a comparable morning peak. These patterns are consistent with members using Cyclistic more frequently for routine weekday transportation, although the dataset does not identify individual trip purposes.
+
+### 5. Casual Ridership Is More Seasonal
+Ridership increased for both groups during warmer months, but casual usage changed more dramatically throughout the year. Casual rides increased from 23,405 in January to 323,533 in August, before declining to 27,075 in December. Members also peaked during the summer but demonstrated more consistent year-round usage.
+
+### 6. Casual Trips Concentrate Near Recreational Destinations
+The most popular casual-rider starting stations included locations near:
+- Navy Pier
+- Millennium Park
+- Shedd Aquarium
+- Theater on the Lake
+- DuSable Harbor
+- Michigan Avenue
+The concentration of casual trips around Chicago’s lakefront and visitor destinations suggests that many casual riders use Cyclistic for recreational or sightseeing-related travel. Because trip purpose is not included in the dataset, this interpretation is based on location and usage patterns rather than direct rider feedback.
+
+### 7. Bike Preferences Are Similar
+Electric bikes were the most frequently used option for both groups:
+- 65.13% of casual rides
+- 63.42% of member rides
+Because the difference is small, bike type does not appear to be one of the strongest distinctions between casual riders and members.
