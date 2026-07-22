@@ -142,3 +142,29 @@ Future analysis could be strengthened by incorporating:
 - Cost comparisons between repeated casual rides and annual membership
 - Additional years of trip data to confirm whether the 2025 patterns are consistent over time
 Cyclistic could also test the recommendations through controlled marketing experiments and measure membership conversions by campaign, station, season, and rider segment.
+
+## Repository Structure
+cyclistic-bike-share-analysis/
+│
+├── README.md
+│
+├── data/
+│   ├── README.md
+│   └── processed/
+│       ├── tableau_day_summary.csv
+│       ├── tableau_hourly_summary.csv
+│       ├── tableau_monthly_summary.csv
+│       ├── tableau_rider_overview.csv
+│       └── tableau_station_summary.csv
+│
+├── images/
+│   └── cyclistic_dashboard_2025.png
+│
+├── sql/
+│   ├── 01_create_clean_table.sql
+│   ├── 02_data_quality_checks.sql
+│   ├── 03_analysis_queries.sql
+│   └── 04_create_tableau_tables.sql
+│
+└── tableau/
+    └── cyclistic_rider_analysis_2025.twbx
