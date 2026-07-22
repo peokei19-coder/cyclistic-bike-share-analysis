@@ -119,3 +119,26 @@ Member activity shows strong weekday morning and evening peaks, while casual rid
 - Regular neighborhood travel
 - Reliable transportation without car ownership or parking costs
 A limited-time membership trial or introductory discount could encourage leisure-oriented casual riders to test Cyclistic for weekday transportation.
+
+## Limitations
+This analysis is based on anonymized trip-level data and does not include rider demographics, payment history, home location, trip purpose, or membership-conversion outcomes. As a result, the analysis cannot determine:
+- Whether multiple casual trips were completed by the same person
+- Whether casual riders are Chicago residents or visitors
+- Why individual riders selected casual passes instead of memberships
+- Whether riders used Cyclistic for commuting, recreation, tourism, or another purpose
+- Whether a casual rider later became an annual member
+- The financial value of converting a particular rider segment
+
+Approximately one-fifth of the records also lacked station names. These trips were retained for time, duration, and rider-type analysis but excluded from station-specific findings. The removal of rides under one minute and rides lasting 24 hours or longer affected a higher percentage of casual rides than member rides. This filtering decision improved the reliability of duration comparisons, but it may have removed some legitimate trips.
+
+## Next Steps
+Future analysis could be strengthened by incorporating:
+- Membership pricing and pass-purchase data
+- Anonymous rider-level identifiers for repeat-use analysis
+- Membership conversion and campaign-response data
+- Weather and seasonal event information
+- Demographic or residency information collected through surveys
+- Trip-purpose surveys or customer interviews
+- Cost comparisons between repeated casual rides and annual membership
+- Additional years of trip data to confirm whether the 2025 patterns are consistent over time
+Cyclistic could also test the recommendations through controlled marketing experiments and measure membership conversions by campaign, station, season, and rider segment.
