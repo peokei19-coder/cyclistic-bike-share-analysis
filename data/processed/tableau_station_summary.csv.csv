@@ -1,0 +1,31 @@
+member_casual,start_station_name,start_lat,start_lng,total_rides,station_rank
+casual,DuSable Lake Shore Dr & Monroe St,41.88096,-87.616744,30712,1
+casual,Navy Pier,41.892278,-87.612043,26939,2
+casual,Streeter Dr & Grand Ave,41.892278,-87.612043,23288,3
+casual,Michigan Ave & Oak St,41.900961,-87.623776,22058,4
+casual,DuSable Lake Shore Dr & North Blvd,41.911722,-87.626804,19023,5
+casual,Millennium Park,41.881033,-87.624085,18723,6
+casual,Shedd Aquarium,41.867227,-87.615362,16521,7
+casual,Theater on the Lake,41.926277,-87.630835,15451,8
+casual,Dusable Harbor,41.886976,-87.612813,15372,9
+casual,Michigan Ave & 8th St,41.872771,-87.62398,11009,10
+casual,Montrose Harbor,41.963982,-87.638181,10341,11
+casual,Adler Planetarium,41.866096,-87.607269,9898,12
+casual,Field Museum,41.865312,-87.617874,9810,13
+casual,Michigan Ave & Washington St,41.883984,-87.624684,9332,14
+casual,Kingsbury St & Kinzie St,41.889173,-87.638502,9274,15
+member,Kingsbury St & Kinzie St,41.889172,-87.6385,30889,1
+member,Clinton St & Washington Blvd,41.883382,-87.641181,25299,2
+member,Canal St & Madison St,41.882403,-87.639763,21837,3
+member,Clinton St & Madison St,41.882738,-87.641194,21818,4
+member,Clark St & Elm St,41.903014,-87.631534,20602,5
+member,State St & Chicago Ave,41.896616,-87.628584,18822,6
+member,Wells St & Elm St,41.903218,-87.634341,18664,7
+member,Wells St & Concord Ln,41.912131,-87.634658,18103,8
+member,Clinton St & Jackson Blvd,41.878318,-87.640986,18036,9
+member,Wells St & Huron St,41.894779,-87.63438,17633,10
+member,Canal St & Adams St,41.879255,-87.639908,16798,11
+member,University Ave & 57th St,41.791478,-87.599863,16154,12
+member,Daley Center Plaza,41.88424,-87.629632,15468,13
+member,Kingsbury St & Erie St,41.893907,-87.641737,15358,14
+member,Desplaines St & Kinzie St,41.88871,-87.644447,15313,15
